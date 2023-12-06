@@ -1,15 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.405260c6.css",
-    "main.js": "/static/js/main.dfb3b7b0.js",
+    "main.css": "/static/css/main.dfbe525e.css",
+    "main.js": "/static/js/main.021ab90f.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/Cleardekho.png": "/static/media/Cleardekho.114a0c4d4f7ee697dba9.png",
-    "static/media/Sephora.png": "/static/media/Sephora.8550a0943f1bbd90baaf.png",
     "static/media/MyPic.jpg": "/static/media/MyPic.b8e21d775df081c25ae7.jpg",
     "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
-    "static/media/Beau.png": "/static/media/Beau.4ff5516a4c9c92d769c7.png",
-    "static/media/ApniDukan.png": "/static/media/ApniDukan.e23047e4e96ad8adb312.png",
     "static/media/banner-bg.png": "/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/Akshay_Gaurav_Resume.pdf": "/static/media/Akshay_Gaurav_Resume.777e263bd0927b2f59b8.pdf",
     "static/media/header-img.svg": "/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
@@ -34,12 +30,12 @@
     "static/media/arrow2.svg": "/static/media/arrow2.3cd4905772c65f27c4970a6ddd851dc7.svg",
     "static/media/arrow1.svg": "/static/media/arrow1.96d04c1593d1b1ed846bae8247d168cb.svg",
     "static/media/envelope.svg": "/static/media/envelope.99f1d0880fde177c0b9468296c907d16.svg",
-    "main.405260c6.css.map": "/static/css/main.405260c6.css.map",
-    "main.dfb3b7b0.js.map": "/static/js/main.dfb3b7b0.js.map",
+    "main.dfbe525e.css.map": "/static/css/main.dfbe525e.css.map",
+    "main.021ab90f.js.map": "/static/js/main.021ab90f.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.405260c6.css",
-    "static/js/main.dfb3b7b0.js"
+    "static/css/main.dfbe525e.css",
+    "static/js/main.021ab90f.js"
   ]
 }
